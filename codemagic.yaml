@@ -12,8 +12,4 @@ workflows:
         script: ./gradlew assembleDebug
     artifacts:
       - app/build/outputs/apk/debug/*.apk
-    publishing:
-      email:
-        notify:
-          success: true
-          failure: true
+
