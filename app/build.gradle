@@ -1,0 +1,4 @@
+plugins { id 'com.android.application' }
+android { namespace 'com.gursharan.ai'; compileSdk 35
+    defaultConfig { applicationId 'com.gursharan.ai'; minSdk 26; targetSdk 35; versionCode 1; versionName '1.0' }
+}
