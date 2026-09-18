@@ -1,0 +1,1 @@
+Android UI foundation using the same GURSHARAN AI visual language. A signed production APK requires an Android build environment and native permissions/integration.

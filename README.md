@@ -1,0 +1,3 @@
+GURSHARAN AI INTEGRATED V1 — shared Desktop + Android foundation with Master Agent, Personal Companion, multilingual architecture, speaker profiles, owner-only security, Computer/Engineering/Communication/Web agent structure and customizable agent identity.
+
+This is source foundation. Production AI backend, native speaker verification, phone call integration, signed APK/EXE and secure cloud synchronization require their respective build services and credentials.
